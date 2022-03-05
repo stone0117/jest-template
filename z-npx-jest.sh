@@ -4,4 +4,5 @@ folder=$(dirname $0)
 
 cd "${folder}" || exit
 
-npx jest --coverage
+#npx jest --coverage
+npx jest --watchAll

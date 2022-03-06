@@ -6,4 +6,4 @@ cd "${folder}" || exit
 
 #npx jest --coverage
 #npx jest
-npx jest --watchAll
+npx jest fetchData.test.js --watchAll

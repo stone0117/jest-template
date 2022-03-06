@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/stone0117/jest-template#readme",
   "dependencies": {
+    "axios": "^0.26.0",
     "jest": "^24.8.0"
   },
   "devDependencies": {

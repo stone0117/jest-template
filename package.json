@@ -19,7 +19,8 @@
   "homepage": "https://github.com/stone0117/jest-template#readme",
   "dependencies": {
     "axios": "^0.26.0",
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
